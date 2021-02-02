@@ -31,3 +31,5 @@ These are my solutions for some of the problems on leetcode.com
 
 ##### 20. Valid Parentheses - [Solution](./20.py)
 ##### 217. Contains Duplicate - [Solution](./217.py)
+##### 242. Valid Anagram - [Solution](./242.py)
+##### 125. Valid Palindrome - [Solution](./125.py)
