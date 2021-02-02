@@ -33,3 +33,6 @@ These are my solutions for some of the problems on leetcode.com
 ##### 217. Contains Duplicate - [Solution](./217.py)
 ##### 242. Valid Anagram - [Solution](./242.py)
 ##### 125. Valid Palindrome - [Solution](./125.py)
+##### 344. Reverse String - [Solution](./344.py)
+##### 56. Merge Intervals - [Solution](./56.py)
+
