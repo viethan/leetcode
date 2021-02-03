@@ -1,4 +1,4 @@
-iclass Solution:
+class Solution:
     def isPalindrome(self, s: str) -> bool:
         if s is None:
             return True
