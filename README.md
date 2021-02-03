@@ -18,7 +18,7 @@ These are my solutions for some of the problems on leetcode.com
 ##### 206. Reverse Linked List - [Solution](./206.py)
 ##### 141. Linked List Cycle - [Solution](./141.py)
 ##### 21. Merge Two Sorted Lists - [Solution](./21.py)
-##### 23. Merge k Sorted Lists - [Solution](./23.py)
+##### 23. Merge k Sorted Lists - [Solution](./23.py) (could be improved)
 ##### 19. Remove Nth Node From End of List - [Solution](./19.py)
 ##### 143. Reorder List - [Solution](./143.py)
 ##### 82. Remove Duplicates from Sorted List II - [Solution](./82.py)
