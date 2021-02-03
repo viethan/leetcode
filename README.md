@@ -8,7 +8,7 @@ These are my solutions for some of the problems on leetcode.com
 ##### 1. Two Sum - [Solution](./1.py)
 ##### 238. Product of Array Except Self - [Solution](./238.py)
 ##### 41. First Missing Positive - [Solution](./41.py) (could be improved)
-##### 1539. Kth Missing Positive Number - [Solution](./1539.py)
+##### 1539. Kth Missing Positive Number - [Solution](./1539.py) (could be improved)
 ##### 1640. Check Array Formation Through Concatenation - [Solution](./1640.py)
 ##### 217. Contains Duplicate - [Solution](./217.py)
 ##### 56. Merge Intervals - [Solution](./56.py)
