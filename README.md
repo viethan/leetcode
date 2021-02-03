@@ -25,7 +25,7 @@ These are my solutions for some of the problems on leetcode.com
 
 
 ### Tree.
-##### 297. Serialize and Deserialize Binary Tree - [Solution](./297.py)
+##### 297. Serialize and Deserialize Binary Tree - [Solution](./297.py) (could be improved)
 ##### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree - [Solution](./1379.py)
 
 ### String.
