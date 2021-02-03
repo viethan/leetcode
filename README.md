@@ -33,6 +33,7 @@ These are my solutions for some of the problems on leetcode.com
 ##### 242. Valid Anagram - [Solution](./242.py)
 ##### 125. Valid Palindrome - [Solution](./125.py)
 ##### 344. Reverse String - [Solution](./344.py)
+##### 151. Reverse Words in a String - [Solution](./151.c)
 
 ### Binary.
 ##### 191. Number of 1 Bits - [Solution](./191.py)
