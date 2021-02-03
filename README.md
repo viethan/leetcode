@@ -38,3 +38,10 @@ These are my solutions for some of the problems on leetcode.com
 ### Binary.
 ##### 191. Number of 1 Bits - [Solution](./191.py)
 
+### To review
+##### 3. Longest Substring Without Repeating Characters - [Solution](./3.py)
+##### 424. Longest Repeating Character Replacement - [Solution](./424.py)
+##### 76. Minimum Window Substring - [Solution](./76.py)
+##### 121. Best Time to Buy and Sell Stock - [Solution](./121.py)
+##### 49. Group Anagrams - [Solution](./49.py)
+
