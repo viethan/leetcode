@@ -10,6 +10,8 @@ These are my solutions for some of the problems on leetcode.com
 ##### 41. First Missing Positive - [Solution](./41.py) (could be improved)
 ##### 1539. Kth Missing Positive Number - [Solution](./1539.py)
 ##### 1640. Check Array Formation Through Concatenation - [Solution](./1640.py)
+##### 217. Contains Duplicate - [Solution](./217.py)
+##### 56. Merge Intervals - [Solution](./56.py)
 
 
 ### Linked List.
@@ -26,14 +28,12 @@ These are my solutions for some of the problems on leetcode.com
 ##### 297. Serialize and Deserialize Binary Tree - [Solution](./297.py)
 ##### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree - [Solution](./1379.py)
 
-
-### To be ordered
-
+### String.
 ##### 20. Valid Parentheses - [Solution](./20.py)
-##### 217. Contains Duplicate - [Solution](./217.py)
 ##### 242. Valid Anagram - [Solution](./242.py)
 ##### 125. Valid Palindrome - [Solution](./125.py)
 ##### 344. Reverse String - [Solution](./344.py)
-##### 56. Merge Intervals - [Solution](./56.py)
+
+### Binary.
 ##### 191. Number of 1 Bits - [Solution](./191.py)
 
